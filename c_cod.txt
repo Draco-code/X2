@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    a = 5;
+    a = a+1;
+    int b = a*a;
+    b = b+1;
+    print("a=%d\tb=%d\n", a, b);
+    return 0;
+}
